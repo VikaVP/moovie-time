@@ -8,7 +8,7 @@
     <a href="https://github.com/VikaVP/moovie-time"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://moovie-time-vikavp.netlify.app/ ">View Demo</a>
+    <a href="https://moovie-time.web.app ">View Demo</a>
     ·
     <a href="https://github.com/VikaVP/moovie-time/issues">Report Bug</a>
     ·
@@ -88,7 +88,7 @@ npm install
 ## Demo
 
 See the [open issues](https://github.com/VikaVP/moovie-time/issues) for a list of proposed features (and known issues).
-[Click Here to go to Demo website on netlify](https://moovie-time-vikavp.netlify.app/ )
+[Click Here to go to Demo website on netlify](https://moovie-time.web.app )
 
 <!-- CONTRIBUTING -->
 
