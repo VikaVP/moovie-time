@@ -41,10 +41,8 @@ This project is a project to meet the test to become a Frontend Developer at Gad
 
 ### Built With
 
-- [Vanilla Javascript](https://reactjs.org/docs/getting-started.html)
+- [Nuxt JS](https://www.nuxtjs.org/)
 - [Tailwind CSS](https://react-bootstrap.github.io/)
-- [Webpack 5](https://reactjs.org/docs/hooks-intro.html)
-- [GSAP](https://reactjs.org/docs/context.html)
  
   <!-- GETTING STARTED -->
 
