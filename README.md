@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Simple Logo Generator</h3>
+  <h3 align="center">Moovie Time</h3>
 
   <p align="center">
     <br />
