@@ -37,7 +37,7 @@
 
 ## About The Project
 
-This project is a project to meet the test to become a Frontend Developer at Gadjian.com, which contains a form to make a list of expenses and daily expenses and there is a calculation of the money in accordance with the type of expenditure / income. This project was created using React JS Hook and the state management uses React Context.
+
 
 ### Built With
 
